@@ -14,4 +14,4 @@ The **RAG-Enabled File Query System** is a tool that allows users to upload file
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RAG-Enabled-File-Query-System.git
+   git clone https://github.com/VikramanT/RAG_Based_DataAnalysis_AI.git
